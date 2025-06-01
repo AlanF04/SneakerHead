@@ -1,0 +1,63 @@
+.frame {
+    display: flex;
+    margin-left: 190px;
+    margin-top: 20px;
+    flex-direction: column;
+}
+.contacts2, .contacts3 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+input {
+    border-width: 0.5px;
+    padding: 6px;
+    border-radius: 8px;
+}
+h1 {
+    font-size: 55px;
+}
+h3 {
+    margin-top: 35px;
+    font-size: smaller;
+}
+.payment {
+    margin-top: 30px;
+}
+.payment-options {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.payment-options label {
+    margin-bottom: 10px;
+}
+.payment-details {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+}
+.payment-details input {
+    width: 100%;
+}
+body{
+    margin-bottom: 10px;
+}
+.contacts{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.contacts4 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+/* .box1{
+    margin-right: 850px;
+    border: solid;
+} */

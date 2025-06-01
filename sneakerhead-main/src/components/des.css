@@ -1,0 +1,20 @@
+
+.btn-remove {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-remove i {
+    margin-right: 5px;
+}
+
+.btn-remove:hover {
+    background-color: #ff1a1a;
+}
